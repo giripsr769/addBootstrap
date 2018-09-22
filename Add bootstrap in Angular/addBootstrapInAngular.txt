@@ -6,7 +6,8 @@ npm install popper.js --save
 
 Now Bootstrap is Install on you Project Directory inside node_modules Folder
 
-Stetp 1: Open "angular-cli.json" this file are available on you angular directory.
+Stetp 1: Open "angular-cli.json"this file are available on you angular directory.
+	NOTE: "angular-json" in Angular 6 and above version.
 Stetp 2: Open that file and add the path of bootstrap, jquery, and popper.js files,
 	 inside styles[] and scripts[] path see the below example
 
